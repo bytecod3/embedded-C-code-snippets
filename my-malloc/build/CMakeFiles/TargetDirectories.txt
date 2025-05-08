@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/embedded-C-code-snippets/my-malloc/build/CMakeFiles/my-malloc.dir
+C:/Users/User/Desktop/embedded-C-code-snippets/my-malloc/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/embedded-C-code-snippets/my-malloc/build/CMakeFiles/rebuild_cache.dir

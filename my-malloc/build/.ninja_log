@@ -1,0 +1,5 @@
+# ninja log v6
+6	216	7684147779336133	CMakeFiles/my-malloc.dir/dyn-alloc.c.obj	6b45743069634fc1
+217	418	7684147781459216	my-malloc.exe	c3605a0e99dd67fd
+4	249	7684154694610334	CMakeFiles/my-malloc.dir/dyn-alloc.c.obj	6b45743069634fc1
+249	421	7684154697062422	my-malloc.exe	c3605a0e99dd67fd
